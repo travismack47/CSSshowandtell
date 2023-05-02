@@ -3,11 +3,23 @@ body {
 }
 h1, h2, h3, ul {
     color: firebrick;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 img {
     width: 350px;
     height: 350px;
     border: 5px;
     border-style: solid;
+    border-radius: 50px;
     padding: 10px;
+    margin-left: 435px;
+}
+
+ul {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
