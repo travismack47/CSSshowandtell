@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+h1, h2, h3, ul {
+    color: firebrick;
+}
+img {
+    width: 350px;
+    height: 350px;
+    border: 5px;
+    border-style: solid;
+    padding: 10px;
+}
